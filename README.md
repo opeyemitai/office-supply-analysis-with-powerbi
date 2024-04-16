@@ -18,4 +18,16 @@ In this Project Analysis, an office supply dataset in Microsoft Excel Worksheet 
 
 ![Office supply visualization 1](https://github.com/opeyemitai/office-supply-analysis-with-powerbi/assets/119592062/9d390418-1c6f-4ecf-b579-cca6d113728c)
 
+## Insights
+
+1) Total Revenue: ₦123M
+2) Total profit:  ₦14M
+3) Profit margin: 11.4%
+4) Total unit sold: ₦128M
+5) Total profit Before tax: ₦15M
+   
 ![Office supply visualization 2](https://github.com/opeyemitai/office-supply-analysis-with-powerbi/assets/119592062/c582e386-94d9-4bdd-b416-aeef1eaafd62)
+
+## Insights
+
+Product with highest tax is Biro
