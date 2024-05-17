@@ -28,6 +28,45 @@ In this Project Analysis, an office supply dataset in Microsoft Excel Worksheet 
    
 ![Office supply visualization 2](https://github.com/opeyemitai/office-supply-analysis-with-powerbi/assets/119592062/c582e386-94d9-4bdd-b416-aeef1eaafd62)
 
-## Insights
+## Key findings
 
-Product with highest tax is Biro
+Government the most revenue while channel partners made the least revenue.
+
+Government made the most gross sales while channel partners made the least gross sales.
+
+Small business have the highest based on profit after tax while channel partners  made the least profit after tax (Loss).
+
+Oyo state generated the highest revenue and gross sales.
+
+Ondo state generated the least amount of revenue.
+
+Osun state generated the highest profit after tax.
+
+Ogun state made the least profit after tax.
+
+The largest revenue was generated from the sales of biro product while A4 paper made the least revenue.
+
+Biro also generate the highest profit after tax while stapler generated the least profit  after tax.
+
+The company generated the highest revenue growth in the month of October in 2014 while November had the greatest decline in 2014.
+
+## Recommendation
+
+The marketing team should come up with new strategies with the goal of increasing the quantity sold in channel partners in other to increase the revenue , gross sales and profit after tax 
+
+Investigation should be carried out to know why Ondo state made the least revenue.
+
+Investigation should be carried out to know why Ogun state made the least profit after tax.
+
+Investigation should be carried out to know why A4 paper generated the least revenue .
+
+Investigation should be carried out to know why stapler generate the least profit after tax.
+
+Investigation should be carried out to know why November had  the least revenue generation.
+
+![image](https://github.com/opeyemitai/office-supply-analysis-with-powerbi/assets/119592062/01770e92-78e7-404b-a8c3-1bd8113e6472)
+
+
+
+![image](https://github.com/opeyemitai/office-supply-analysis-with-powerbi/assets/119592062/2cd24532-76eb-4371-a51e-b1dd0b50cd45)
+
