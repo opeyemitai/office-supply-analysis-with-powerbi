@@ -64,9 +64,9 @@ Investigation should be carried out to know why stapler generate the least profi
 
 Investigation should be carried out to know why November had  the least revenue generation.
 
-![image](https://github.com/opeyemitai/office-supply-analysis-with-powerbi/assets/119592062/01770e92-78e7-404b-a8c3-1bd8113e6472)
 
 
 
-![image](https://github.com/opeyemitai/office-supply-analysis-with-powerbi/assets/119592062/2cd24532-76eb-4371-a51e-b1dd0b50cd45)
+
+
 
